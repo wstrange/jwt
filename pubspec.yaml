@@ -1,0 +1,6 @@
+name: jwt
+author: warren.strange@gmail.com
+version: 0.1.0
+description: Very basic JWT token handling. This needs a lot of work...
+dependencies:
+  crypto: any
